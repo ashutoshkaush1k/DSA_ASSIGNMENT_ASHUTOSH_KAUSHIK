@@ -1,6 +1,6 @@
 Problem 1700 
 Approach:
-– Used custom stack and circular queue classes, no STL.
+– Used custom stack and circular queue classes, no STL.\n
 – Stack holds sandwiches, queue holds student preferences.
 – Inputs are validated, max 50 entries, only 0 or 1 allowed.
 – Sandwiches are pushed in order, so last entered is served first (LIFO).
