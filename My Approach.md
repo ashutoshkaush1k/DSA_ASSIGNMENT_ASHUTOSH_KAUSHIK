@@ -2,7 +2,7 @@
 
 ## Problem 121: Best Time to Buy and Sell Stock
 
-🔗 [View Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array)
+ [View Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array)
 
 ### Problem Summary
 Given an array of stock prices over `n` days, determine the maximum profit achievable with one buy and one sell.
